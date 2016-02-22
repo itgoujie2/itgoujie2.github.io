@@ -443,7 +443,7 @@ header{
 ------------------------------------------------------*/
 
 .aboutme{
-	background:#00bdbd;
+	background:#2980b9;
 	color:#fff;
 	position:relative;
 }
@@ -1099,7 +1099,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
  12. Footer Style
 ------------------------------------------------------*/
 .footer{
-	background:#00bdbd;
+	background:#2980b9;
 }
 .footer .container{
 	padding:40px 0;
